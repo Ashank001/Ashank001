@@ -30,9 +30,9 @@ Final-year CSE student at Chennai Institute of Technology, focused on backend en
 ### 🚀 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [**RAG Codebase Intelligence Engine**](REPO_LINK) · [live](https://www.ashank01.xyz/) | Distributed microservices RAG engine for codebase onboarding; event-driven ingestion with batching, retries, rate limiting; GitHub OAuth + JWT | Express, FastAPI, MongoDB, Redis, BullMQ, Celery, Docker, Next.js, LangChain |
-| [**AI Agent Governance System**](REPO_LINK) · [live](https://bit.ly/47NBEBU) | Serverless agent baselining, anomaly detection and behavioral drift monitoring via tool-call trace interception | AWS Lambda, DynamoDB, SAM, API Gateway, Gemini API |
-| [**AegisComm**](REPO_LINK) · [live](http://aegiscomm.duckdns.org/) | Enterprise messaging on Java EE: BCrypt auth, AES master-key wrapping, SHA-256 hash-linked audit logs; EC2 + CI/CD | Java EE, MySQL, EC2, Docker, GitHub Actions |
+| [**RAG Codebase Intelligence Engine**](https://github.com/Ashank001/RAG-narok) · [live](https://www.ashank01.xyz/) | Distributed microservices RAG engine for codebase onboarding; event-driven ingestion with batching, retries, rate limiting; GitHub OAuth + JWT | Express, FastAPI, MongoDB, Redis, BullMQ, Celery, Docker, Next.js, LangChain |
+| [**AI Agent Governance System**](https://github.com/Ashank001/Flagent) · [live](https://ashank001.github.io/Flagent/dashboard.html) | Serverless agent baselining, anomaly detection and behavioral drift monitoring via tool-call trace interception | AWS Lambda, DynamoDB, SAM, API Gateway, Gemini API |
+| [**AegisComm**](https://github.com/Ashank001/AegisComm) · [live](http://aegiscomm.duckdns.org/) | Enterprise messaging on Java EE: BCrypt auth, AES master-key wrapping, SHA-256 hash-linked audit logs; EC2 + CI/CD | Java EE, MySQL, EC2, Docker, GitHub Actions |
 
 ### 🧩 Problem Solving
 <p align="center">
